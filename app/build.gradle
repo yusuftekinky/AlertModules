@@ -7,11 +7,11 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "com.ace1ofspades.alertmodules"
         minSdk 23
         targetSdk 31
         versionCode 1
         versionName "1.0"
+        versionNameSuffix 'alert_module'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

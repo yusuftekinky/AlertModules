@@ -7,6 +7,7 @@ import android.view.View
 import android.widget.Button
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.ace1ofspades.alertmodules.R
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.ViewHolder
 

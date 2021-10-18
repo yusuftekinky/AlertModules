@@ -16,6 +16,7 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.constraintlayout.widget.Placeholder
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.ace1ofspades.alertmodules.R
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import com.xwray.groupie.GroupAdapter
